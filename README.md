@@ -27,7 +27,7 @@ Among the configurations and commands used for this project were:
 6) apt-get upgrade, a2ensite, ssh-keygen.
 7) Create Amazon Lightsail virtual machine instance.
 
-I made generous use of Google, Stack Overflow, and my new mentor, Sarmad. Among the more helpful resources found on Google were:
-https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+I made generous use of Google, Stack Overflow, and my new mentor, Sarmad. Among the more helpful resources found on Google were
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps and
 https://blog.theodo.fr/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/
 
